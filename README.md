@@ -3,8 +3,8 @@
 A responsive art gallery website showcasing artworks, artists, and exhibitions. Built with **HTML**, **CSS**, and **JavaScript**.
 
 ## 🌐 Live Demo
-[Click here to view the live site](https://your-live-url-here)
-
+[Click here to view the live site](https://gallery-art-website.vercel.app/)
+(https://biketipro.github.io/gallery_art_website/)
 ## 📸 Screenshots
 (Add screenshots here)
 
